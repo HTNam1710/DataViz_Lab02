@@ -1,0 +1,16 @@
+﻿Bank,Stock symbol,Year,World rank,Vietnam rank,Brand value ($M),Brand value change (%)
+Agribank,AGR,2021,173,1,1152,
+Vietcombank,VCB,2021,180,2,1048,
+VietinBank,CTG,2021,216,3,793,
+BIDV,BID,2021,246,5,,
+Techcombank,TCB,2021,270,6,524,
+Agribank,AGR,2022,157,1,1412,22.5
+Vietcombank,VCB,2022,162,2,1344,28.2
+VietinBank,CTG,2022,184,3,1064,34.2
+Techcombank,TCB,2022,196,4,945,80.4
+BIDV,BID,2022,212,6,831,
+Vietcombank,VCB,2023,137,1,1917,42.7
+Agribank,AGR,2023,159,2,1436,2
+BIDV,BID,2023,161,3,1404,69
+Techcombank,TCB,2023,163,4,1386,47
+VietinBank,CTG,2023,171,5,1302,22

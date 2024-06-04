@@ -22,10 +22,6 @@
 
 ### ***Phân tích và trực quan giá cổ phiếu của top 6 ngân hàng có trị thương hiệu tốt nhất Việt Nam***
 
-<h4>Tổng quan:</h4>
-...
-
-
 <h3> Cấu trúc thư mục: </h3>
 
 ```
@@ -48,19 +44,18 @@
 │   │    ├── VCB.csv                           <- Data after preprocessing of Vietcombank.
 │   │    ├── VPB.csv                           <- Data after preprocessing of VPBank.
 │
-├── notebooks                                  <- Jupyter notebooks.
-│   ├── A-Data-collection.ipynb                <- Notebook for the information about the dataset.
-│   ├── B-Preprocessing.ipynb                  <- Notebook for preprocessing.
-│   ├── C-Data-exploration-01.ipynb            <- Notebook for exploratory data analysis - part 01.
-│   ├── C-Data-exploration-02.ipynb            <- Notebook for exploratory data analysis - part 02.
-│   ├── C-Data-exploration-03.ipynb            <- Notebook for exploratory data analysis - part 03.
-│   ├── C-Data-exploration-04.ipynb            <- Notebook for exploratory data analysis - part 03.
+├── Docs
+│   ├── Report.pdf 
+(notebooks)                                     
+├── A-Data-collection.ipynb                    <- Notebook for the information about the dataset.
+├── B-Preprocessing.ipynb                      <- Notebook for preprocessing.
+├── C-Data-exploration-01.ipynb                <- Notebook for exploratory data analysis - part 01.
+├── C-Data-exploration-02.ipynb                <- Notebook for exploratory data analysis - part 02.
+├── C-Data-exploration-03.ipynb                <- Notebook for exploratory data analysis - part 03.
+├── C-Data-exploration-04.ipynb                <- Notebook for exploratory data analysis - part 04.
 │
 ├── ...                                        <- Other unimportant files and folders.
 ```
-
-<h3> Tài liệu tham khảo: </h3>
-...
 
 
 
